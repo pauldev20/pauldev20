@@ -4,8 +4,6 @@
 
 Hi I'm Paul 👋
 
-<a>Test</a>
-
 # Statistics:
 <p align="center">
   <img width="60%" src="./assets/images/stats.gif" alt="" />
