@@ -5,9 +5,9 @@
 Hi I'm Paul 👋
 
 # Statistics:
-<p align="center">
+<!-- <p align="center">
   <img width="60%" src="./assets/images/stats.gif" alt="" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldev&show_icons=true&theme=dark"/>
 </p>
