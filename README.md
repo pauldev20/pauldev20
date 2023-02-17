@@ -9,7 +9,7 @@ Hi I'm Paul 👋
   <img width="60%" src="./assets/images/stats.gif" alt="" />
 </p> -->
 <p align="center">
-  <a href="https://wakatime.com/@pauldev" target="_blank">
+  <a href="https://wakatime.com/@pauldev">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldev&show_icons=true&theme=dark"/>
   </a>
 </p>
