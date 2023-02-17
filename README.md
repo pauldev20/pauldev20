@@ -9,11 +9,17 @@ Hi I'm Paul 👋
   <img width="60%" src="./assets/images/stats.gif" alt="" />
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldev&show_icons=true&theme=dark"/>
+  <a href="https://wakatime.com/@pauldev">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pauldev&show_icons=true&theme=dark"/>
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldev20&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauldev20&theme=dark&line_height=40">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldev20&theme=dark"/>
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=pauldev20&theme=dark&line_height=40"/>
+  </a>
 </p>
 
 <p align="center">
