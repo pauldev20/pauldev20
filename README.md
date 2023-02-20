@@ -2,7 +2,7 @@
   <img width="45%" src="./assets/images/banana.gif" alt="" />
 </p>
 
-Hi I'm Paul 👋
+<!-- Hi I'm Paul 👋>
 
 # Statistics:
 <!-- <p align="center">
