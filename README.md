@@ -18,7 +18,7 @@
 
 ----
 <p align="center">💬 Ask me anything, I'm alyways open to chat :)</p>
-<!-- <p align="center">Want to know more about me or my work? Check out my <a href="https://pauldev.sh">website</a> 💻</p> -->
+<p align="center">Want to know more about me or my work? Check out my <a href="https://pauldev.sh">website</a> 💻</p>
 
 <!--
 Here are some ideas to get you started:
