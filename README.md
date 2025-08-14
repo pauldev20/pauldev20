@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer focused on Blockchain for 5 years, with 12 years of experience in electrical engineering and building all kinds of things</h3>
 
 ----
-<p align="center">I’m Paul. Since a young age, I’ve been interested in all kinds of electronic devices. My passion for music and playing guitar led me to develop and repair tube amplifiers. From there, I developed an interest in microcontrollers and IoT devices, which then pushed me toward software development. After my first studies in Industrial Engineering, I joined 42 School in March 2022, completing the ‘core’ program and an internship by December 2024. During this time, I developed a strong interest in blockchain technology, particularly with a focus on Ethereum. In my free time, I work on a variety of projects, especially those related to hardware, automotive, and music.</p>
+<p align="center">I’m Paul. Since a young age, I’ve been interested in all kinds of electronic devices. My passion for music and playing guitar led me to develop and repair tube amplifiers. From there, I developed an interest in microcontrollers and IoT devices, which then pushed me toward software development. After my first studies in Industrial Engineering, I joined 42 School in March 2022, completing the ‘core’ program and an internship by December 2024. During this time, I developed a strong interest in blockchain technology with a focus on Ethereum. In my free time, I work on a variety of projects, especially those related to hardware, automotive, and music.</p>
 
 <h2 align="center">And Now Some Statistics 📈</h2>
 <p align="center">
